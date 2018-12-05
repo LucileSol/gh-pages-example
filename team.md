@@ -5,7 +5,7 @@ title: Team
 
 # Person A
 
-Short bio ...
+I am awesome
 
 
 # Person B
